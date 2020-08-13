@@ -1,4 +1,4 @@
-
+# Data Description 
 1. One-hundred plant species leaves data set.
 	
 
@@ -26,12 +26,12 @@
 	J. Cope, P. Remagnino, S. Barman, and P. Wilkin.
 	Plant texture classification using gabor cooccurrences.
 	Advances in Visual Computing,
-	pages 669–677, 2010.
+	pages 669â€“677, 2010.
 
 	T. Beghin, J. Cope, P. Remagnino, and S. Barman.
 	Shape and texture based plant leaf classification. In
 	Advanced Concepts for Intelligent Vision Systems,
-	pages 345–353. Springer, 2010.
+	pages 345â€“353. Springer, 2010.
 
 4. Relevant Information Paragraph:
 	The data directory contains the binary images (masks) of the leaf samples. The colour images are not included.
